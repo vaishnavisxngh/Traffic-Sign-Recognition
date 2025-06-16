@@ -5,7 +5,9 @@ This project uses a Convolutional Neural Network (CNN) to classify traffic signs
 ##Dataset used
 
 -> Name : GTSRB (German Traffic Sign Recognition Benchmark) dataset
+
 -> Source : Downloaded from: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
 -> Includes :
        -> Labeled train and test images
        -> CSV files with class labels and metadata

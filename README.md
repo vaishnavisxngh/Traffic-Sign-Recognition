@@ -15,19 +15,27 @@ This project uses a Convolutional Neural Network (CNN) to classify traffic signs
 ##Model Architecture
 
 -> 2 Conv2D + MaxPooling layers
+
 -> Dropout regularization
+
 -> Dense layers with softmax output
+
 -> Optimizer: Adam
+
 -> Loss: Categorical Crossentropy
 
 ##Results
 
 -> Validation Accuracy: ~99%
+
 -> Test Accuracy: 98.8%
+
 -> Visualizations:
   -> Accuracy & Loss Graphs over Epochs
   -> Confusion Matrix
 
 #License & Credits
+
 ->Dataset: GTSRB - Kaggle
+
 ->Model trained using TensorFlow Keras in Google Colab
